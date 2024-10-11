@@ -1,11 +1,8 @@
-# C Piscine @ 42Angouleme by Me
+# C Piscine @ 42Angouleme by Me :
+	Ce repo contient du code développé au [42Angouleme](https://42angouleme.fr/) au bootcamp C (également connu sous le nom de `Piscine`), du 08/07/2024 au 02/08/2024.
+	This repository contains coding developed at [42Angouleme](https://42angouleme.fr/) C bootcamp (also known as `Piscine`), from 08/07/2024 to 02/08/2024.
 
-### Ce repo contient du code développé au [42Angouleme](https://42angouleme.fr/) au bootcamp C (également connu sous le nom de `Piscine`), du 08/07/2024 au 02/08/2024.
-	
-### This repository contains coding developed at [42Angouleme](https://42angouleme.fr/) C bootcamp (also known as `Piscine`), from 08/07/2024 to 02/08/2024.
-
-## A propos de 42 / About 42
-
+## A propos de 42 / About 42 :
 	42 est une initiative éducative mondiale qui propose une nouvelle façon d'apprendre la technologie :
 	pas d'enseignants, pas de salles de classe, les étudiants apprennent de leurs camarades
 	(apprentissage entre pairs), avec une méthodologie qui développe des compétences informatique et humaines.
@@ -19,72 +16,72 @@
 	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 	is the last stage in the selection process for becoming a "cadet" (42's student). 
 
-## Competences developpees a la Piscine / Skills developed at C Piscine
+## Competences developpees a la Piscine / Skills developed at C Piscine :
 
-### Competences techniques / Hard-skills
+	### Competences techniques / Hard-skills
 
-	# Langage C
-		Le langage principal appris à la Piscine des 42 est le C : gestion des variables,
-		pointeurs, allocation de mémoire, macros, ainsi que la création de fonctions et de programmes,
-		y compris l'utilisation et la création de bibliothèques et de Makefiles.
+		# Langage C
+			Le langage principal appris à la Piscine des 42 est le C : gestion des variables,
+			pointeurs, allocation de mémoire, macros, ainsi que la création de fonctions et de programmes,
+			y compris l'utilisation et la création de bibliothèques et de Makefiles.
 
-	# Shell
-		Les deux premiers jours du bootcamp sont consacrés à l'apprentissage du niveau basique à intermédiaire
-		commandes shell pour naviguer de manière transparente dans le terminal.
+		# Shell
+			Les deux premiers jours du bootcamp sont consacrés à l'apprentissage du niveau basique à intermédiaire
+			commandes shell pour naviguer de manière transparente dans le terminal.
 
-	# Git
-		Tous les projets sont soumis via un référentiel git distant, qui demande aux étudiants de
-		être à l'aise avec ce système.
+		# Git
+			Tous les projets sont soumis via un référentiel git distant, qui demande aux étudiants de
+			être à l'aise avec ce système.
 ----------------------------------------------------------------------------------------------------------------------------------
 
-	# C Language
-		The primary language learned at the 42's Piscine is C: dealing with variables,
-		pointers, memory allocation, macros, as well as creating functions and programs,
-		including the use and creation of libraries and Makefiles.
+		# C Language
+			The primary language learned at the 42's Piscine is C: dealing with variables,
+			pointers, memory allocation, macros, as well as creating functions and programs,
+			including the use and creation of libraries and Makefiles.
 
-	# Shell
-		The first two days of the bootcamp are dedicated to learning basic to intermediate
-		shell commands to seamlessly navigate through the terminal.
+		# Shell
+			The first two days of the bootcamp are dedicated to learning basic to intermediate
+			shell commands to seamlessly navigate through the terminal.
 
-	# Git
-		All projects are submitted via a remote git repository, which demands students to
-		be at ease with such a system.
+		# Git
+			All projects are submitted via a remote git repository, which demands students to
+			be at ease with such a system.
 
-### Compétences générales / Soft-skills
+	### Compétences générales / Soft-skills
 
-	# Auto-apprentissage et proactivité
-		À 42 , l’auto-apprentissage est au cœur de la méthodologie d’apprentissage entre pairs.
-		Il n'y a pas d'enseignants ; le processus d'apprentissage est basé sur la recherche sur Google, la recherche
-		via vos camarades de classe et vos connaissances, chaque élève apprenant à son rythme.
+		# Auto-apprentissage et proactivité
+			À 42 , l’auto-apprentissage est au cœur de la méthodologie d’apprentissage entre pairs.
+			Il n'y a pas d'enseignants ; le processus d'apprentissage est basé sur la recherche sur Google, la recherche
+			via vos camarades de classe et vos connaissances, chaque élève apprenant à son rythme.
 
-	# Travail en équipe
-		Le week-end, un projet d'équipe de 48h appelé "Rush" est proposé : un groupe de 3 membres choisis au hasard
-		par le système de l'école doivent développer en collaboration un programme entièrement opérationnel.
-		Le défi majeur ici est d'égaliser les différents niveaux de connaissances tout en trouvant une
-		méthodologie de travail commune qui permet à tous les membres de l’équipe de contribuer au projet.
+		# Travail en équipe
+			Le week-end, un projet d'équipe de 48h appelé "Rush" est proposé : un groupe de 3 membres choisis au hasard
+			par le système de l'école doivent développer en collaboration un programme entièrement opérationnel.
+			Le défi majeur ici est d'égaliser les différents niveaux de connaissances tout en trouvant une
+			méthodologie de travail commune qui permet à tous les membres de l’équipe de contribuer au projet.
 
-	# Gestion du temps et résilience
-		L'école est ouverte 24h/24 et 7j/7. Ainsi, les soi-disant « pisciners » sont libres de travailler à tout moment.
-		ils veulent, ce qui exige d'excellentes compétences en gestion du temps et de la résilience pour ne pas
-		"noyés" au milieu de la charge de travail massive qu'exige le programme non-stop de 26 jours.	
+		# Gestion du temps et résilience
+			L'école est ouverte 24h/24 et 7j/7. Ainsi, les soi-disant « pisciners » sont libres de travailler à tout moment.
+			ils veulent, ce qui exige d'excellentes compétences en gestion du temps et de la résilience pour ne pas
+			"noyés" au milieu de la charge de travail massive qu'exige le programme non-stop de 26 jours.	
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-	# Self-learning and proactiveness
-		At 42, self-learning is at the core of its peer to peer learning methodology. There
-		are no teachers whatsoever; the learning process is based on googling, enquiring
-		your classmates, and empirical knowledge, each student learning at their own pace.
+		# Self-learning and proactiveness
+			At 42, self-learning is at the core of its peer to peer learning methodology. There
+			are no teachers whatsoever; the learning process is based on googling, enquiring
+			your classmates, and empirical knowledge, each student learning at their own pace.
 
-	# Teamwork
-		On weekends, a 48h team project called "Rush" is proposed: a 3-member group randomly
-		chosen by the school's system must collaboratively develop a fully running application.
-		The major challenge here is to equalize the different knowledge levels while finding a
-		common work methodology that allows all team members to contribute to the project.
+		# Teamwork
+			On weekends, a 48h team project called "Rush" is proposed: a 3-member group randomly
+			chosen by the school's system must collaboratively develop a fully running application.
+			The major challenge here is to equalize the different knowledge levels while finding a
+			common work methodology that allows all team members to contribute to the project.
 
-	# Time management and resiliency
-		The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
-		they want, which demands excellent time management skills and resiliency for not
-		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
+		# Time management and resiliency
+			The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
+			they want, which demands excellent time management skills and resiliency for not
+			"drowning" amid the massive load of work demanded by the non-stop 26-day program.
 
 ## Curriculum
 
