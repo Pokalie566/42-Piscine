@@ -1,8 +1,8 @@
 # C Piscine @ 42Angouleme by Me
 
-	# Ce repo contient du code développé au [42Angouleme](https://42angouleme.fr/) au bootcamp C (également connu sous le nom de `Piscine`), du 08/07/2024 au 02/08/2024.
+### Ce repo contient du code développé au [42Angouleme](https://42angouleme.fr/) au bootcamp C (également connu sous le nom de `Piscine`), du 08/07/2024 au 02/08/2024.
 	
-	# This repository contains coding developed at [42Angouleme](https://42angouleme.fr/) C bootcamp (also known as `Piscine`), from 08/07/2024 to 02/08/2024.
+### This repository contains coding developed at [42Angouleme](https://42angouleme.fr/) C bootcamp (also known as `Piscine`), from 08/07/2024 to 02/08/2024.
 
 ## A propos de 42 / About 42
 
